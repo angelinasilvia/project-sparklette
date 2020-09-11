@@ -1,0 +1,92 @@
+body {
+    background: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-outline-custom {
+    color: #cb8683;
+    border-color: #cb8683;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.page-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.page-section, .fadeInStart {
+    opacity: 0;
+}
+
+.ig-custom {
+    font-weight: bold;
+    color: #cb8683;
+    font-size: x-large;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+#AboutUs {
+    /* background-color: #ffcccc; */
+    background: url("../image/bg_pink_rice.png");
+}
+
+.tagline {
+    font-family: 'Cookie', cursive;
+}
+
+.text-custom-pink {
+    color: #cb8683;
+}
+
+.subhead-custom {
+    font-size: 16px;
+}
+
+#Collection a img:hover {
+    opacity: 0.7;
+    transition: 700ms;
+}
+
+#Collection small {
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
+
+#Collection a {
+    color: #000000;
+}
+
+#Lookbook a img:hover {
+    opacity: 0.7;
+    transition: 700ms;
+}
+
+.btn-custom {
+    background: #f8f9fa;
+    border-color: #ced4da;
+}
+
+.btn-custom:hover {
+    background: #efdfdf;
+    border-color: #ced4da;
+}
+
+.hr-custom {
+    border-width: 2px;
+}
+
+.order-here {
+    max-height: 2.6rem;
+    width: auto;
+    margin-bottom: 0.1%;
+}
+
+#Footer {
+    background-color: #f8f9fa;
+}
